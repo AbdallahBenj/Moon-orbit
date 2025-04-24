@@ -1,6 +1,7 @@
 # Moon Orbit Animation - Certification Project
 
- ##Overview
+## Overview
+
 This project is part of the certification requirements. In this visual lab, I created an animated simulation of the **Moon orbiting the Earth** using pure CSS. The main objective was to practice using CSS animation properties to create smooth, realistic orbital motion.
 
 ## Project Details
