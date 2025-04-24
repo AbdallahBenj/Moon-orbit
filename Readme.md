@@ -31,6 +31,6 @@ To see the moon orbit in action:
 
 Or view it live here:
 
-🔗 [Live Demo](https://github.com/AbdallahBenj/Moon-orbit/)
+🔗 [Live Demo](https://abdallahbenj.github.io/Moon-orbit/)
 
 ## Simulate celestial motion and master CSS animations — one orbit at a time! 🌙✨🌍
